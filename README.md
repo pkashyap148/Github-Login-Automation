@@ -9,4 +9,4 @@ This is an automation script written in Python3. By running this script user nee
 * After this the script will ask user to give the OTP sent by the github
 * Enter the OTP and done, Welcome to your GitHub Accouont
 
-[Developed By: Piyush Kant](www.linkedin.com/in/piyush-kant-254a1b14a)
+[Developed By: Piyush Kant](https://www.linkedin.com/in/piyush-kant-254a1b14a/)
