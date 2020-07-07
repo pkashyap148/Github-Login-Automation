@@ -26,7 +26,3 @@ otp.send_keys(x)
 
 log = driver.find_element_by_xpath('//*[@id="login"]/div[3]/form/button')
 log.click()
-
-time.sleep(10)
-out = driver.get_element_by_xpath('/html/body/div[1]/header/div[3]/nav/form/button')
-out.click()
